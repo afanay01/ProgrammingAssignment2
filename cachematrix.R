@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Two functions to cache inverse of a matrix
 
-## Write a short comment describing this function
+## Create a special "matrix" object that can cache its inverse
 
 makeCacheMatrix <- function(x = numeric()) {
   m <- NULL
